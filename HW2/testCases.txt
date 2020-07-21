@@ -1,0 +1,180 @@
+TEST CASE #1
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Luxury
+Duygu, please enter the number of rental days: 1
+Duygu, please enter the gear type: Automatic
+Duygu, please enter the fuel type: Diesel
+
+Duygu, 1500TL is charged for your vehicle rental.
+
+TEST CASE #2
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Prestige
+Duygu, please enter the number of rental days: 5
+Duygu, please enter the gear type: MANUAL
+Duygu, please enter the fuel type: petrol
+
+Incorrect gear type!
+
+TEST CASE #3
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Luxury
+Duygu, please enter the number of rental days: 5
+Duygu, please enter the gear type: Automatic
+Duygu, please enter the fuel type: PETROL
+
+Incorrect fuel type!
+
+TEST CASE #4
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Prestige
+Duygu, please enter the number of rental days: 4
+Duygu, please enter the gear type: Manual
+Duygu, please enter the fuel type: Petrol
+
+Duygu, 3000TL is charged for your vehicle rental.
+
+TEST CASE #5
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Comfort
+Duygu, please enter the number of rental days: 2
+Duygu, please enter the gear type: Automatic
+Duygu, please enter the fuel type: petrol
+
+Incorrect fuel type!
+
+TEST CASE #6
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: luxury
+Duygu, please enter the number of rental days: -1
+Duygu, please enter the gear type: Automatic
+Duygu, please enter the fuel type: petrol
+
+Incorrect vehicle segment!
+
+TEST CASE #7
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: evet
+Duygu, please enter the number of rental days: 5
+Duygu, please enter the gear type: Manual
+Duygu, please enter the fuel type: Diesel
+
+Incorrect vehicle segment!
+
+TEST CASE #8
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Economic
+Duygu, please enter the number of rental days: 3
+Duygu, please enter the gear type: Manual
+Duygu, please enter the fuel type: Diesel
+
+Duygu, 1500TL is charged for your vehicle rental.
+
+TEST CASE #9
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Economic
+Duygu, please enter the number of rental days: 5
+Duygu, please enter the gear type: nonono
+Duygu, please enter the fuel type: berk
+
+Incorrect gear type!
+
+TEST CASE #10
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Luxury
+Duygu, please enter the number of rental days: 0
+Duygu, please enter the gear type: Manual
+Duygu, please enter the fuel type: petrol
+
+Incorrect number of rental days!
+
+TEST CASE #11
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Economic
+Duygu, please enter the number of rental days: -1
+Duygu, please enter the gear type: Automatic
+Duygu, please enter the fuel type: Petrol
+
+Incorrect number of rental days!
+
+TEST CASE #12
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Comfort
+Duygu, please enter the number of rental days: -1
+Duygu, please enter the gear type: nonono
+Duygu, please enter the fuel type: petrol
+
+Incorrect number of rental days!
+
+TEST CASE #13
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Prestige
+Duygu, please enter the number of rental days: -1
+Duygu, please enter the gear type: Automatic
+Duygu, please enter the fuel type: Diesel
+
+Incorrect number of rental days!
+
+TEST CASE #14
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Comfort
+Duygu, please enter the number of rental days: 7
+Duygu, please enter the gear type: Automatic
+Duygu, please enter the fuel type: Diesel
+
+Duygu, 5250TL is charged for your vehicle rental.
+
+TEST CASE #15
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Premium
+Duygu, please enter the number of rental days: 5
+Duygu, please enter the gear type: Automatic
+Duygu, please enter the fuel type: Petrol
+
+Duygu, 5000TL is charged for your vehicle rental.
+
+TEST CASE #16
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Luxury
+Duygu, please enter the number of rental days: 6
+Duygu, please enter the gear type: Manual
+Duygu, please enter the fuel type: Diesel
+
+Duygu, 8400TL is charged for your vehicle rental.
+
+TEST CASE #17
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Economic
+Duygu, please enter the number of rental days: 3
+Duygu, please enter the gear type: Automatic
+Duygu, please enter the fuel type: Petrol
+
+Duygu, 1500TL is charged for your vehicle rental.
+
+TEST CASE #18
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Prestige
+Duygu, please enter the number of rental days: 8
+Duygu, please enter the gear type: Manual
+Duygu, please enter the fuel type: Petrol
+
+Duygu, 6000TL is charged for your vehicle rental.
+
+TEST CASE #19
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Comfort
+Duygu, please enter the number of rental days: 10
+Duygu, please enter the gear type: Automatic
+Duygu, please enter the fuel type: Diesel
+
+Duygu, 7500TL is charged for your vehicle rental.
+
+TEST CASE #20
+Please enter your name: Duygu
+Duygu, please enter the segment of the vehicle: Premium
+Duygu, please enter the number of rental days: 2
+Duygu, please enter the gear type: Manual
+Duygu, please enter the fuel type: Petrol
+
+Duygu, 1800TL is charged for your vehicle rental.
+

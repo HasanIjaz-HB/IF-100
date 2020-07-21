@@ -1,0 +1,86 @@
+Test Case #1
+input:
+5
+15
+output:
+The result for threshold 5 is [294, 132, 55, 40, 29]
+The result for threshold 6 is [294, 132, 55, 40, 29]
+The result for threshold 7 is [294, 132, 55, 40, 29]
+The result for threshold 8 is [306, 141, 59, 44, 0]
+The result for threshold 9 is [326, 154, 70, 0, 0]
+The result for threshold 10 is [367, 183, 0, 0, 0]
+The result for threshold 11 is [367, 183, 0, 0, 0]
+The result for threshold 12 is [367, 183, 0, 0, 0]
+The result for threshold 13 is [367, 183, 0, 0, 0]
+The result for threshold 14 is [367, 183, 0, 0, 0]
+The result for threshold 15 is [367, 183, 0, 0, 0]
+
+Test Case #2
+input:
+3
+9
+output:
+The result for threshold 3 is [294, 132, 55, 40, 29]
+The result for threshold 4 is [294, 132, 55, 40, 29]
+The result for threshold 5 is [294, 132, 55, 40, 29]
+The result for threshold 6 is [294, 132, 55, 40, 29]
+The result for threshold 7 is [294, 132, 55, 40, 29]
+The result for threshold 8 is [306, 141, 59, 44, 0]
+The result for threshold 9 is [326, 154, 70, 0, 0]
+
+Test Case #3
+input:
+18
+34
+output:
+The result for threshold 18 is [367, 183, 0, 0, 0]
+The result for threshold 19 is [367, 183, 0, 0, 0]
+The result for threshold 20 is [550, 0, 0, 0, 0]
+The result for threshold 21 is [550, 0, 0, 0, 0]
+The result for threshold 22 is [550, 0, 0, 0, 0]
+The result for threshold 23 is [550, 0, 0, 0, 0]
+The result for threshold 24 is [550, 0, 0, 0, 0]
+The result for threshold 25 is [550, 0, 0, 0, 0]
+The result for threshold 26 is [550, 0, 0, 0, 0]
+The result for threshold 27 is [550, 0, 0, 0, 0]
+The result for threshold 28 is [550, 0, 0, 0, 0]
+The result for threshold 29 is [550, 0, 0, 0, 0]
+The result for threshold 30 is [550, 0, 0, 0, 0]
+The result for threshold 31 is [550, 0, 0, 0, 0]
+The result for threshold 32 is [550, 0, 0, 0, 0]
+The result for threshold 33 is [550, 0, 0, 0, 0]
+The result for threshold 34 is [550, 0, 0, 0, 0]
+
+Test Case #4
+input:
+1
+20
+output:
+The result for threshold 1 is [294, 132, 55, 40, 29]
+The result for threshold 2 is [294, 132, 55, 40, 29]
+The result for threshold 3 is [294, 132, 55, 40, 29]
+The result for threshold 4 is [294, 132, 55, 40, 29]
+The result for threshold 5 is [294, 132, 55, 40, 29]
+The result for threshold 6 is [294, 132, 55, 40, 29]
+The result for threshold 7 is [294, 132, 55, 40, 29]
+The result for threshold 8 is [306, 141, 59, 44, 0]
+The result for threshold 9 is [326, 154, 70, 0, 0]
+The result for threshold 10 is [367, 183, 0, 0, 0]
+The result for threshold 11 is [367, 183, 0, 0, 0]
+The result for threshold 12 is [367, 183, 0, 0, 0]
+The result for threshold 13 is [367, 183, 0, 0, 0]
+The result for threshold 14 is [367, 183, 0, 0, 0]
+The result for threshold 15 is [367, 183, 0, 0, 0]
+The result for threshold 16 is [367, 183, 0, 0, 0]
+The result for threshold 17 is [367, 183, 0, 0, 0]
+The result for threshold 18 is [367, 183, 0, 0, 0]
+The result for threshold 19 is [367, 183, 0, 0, 0]
+The result for threshold 20 is [550, 0, 0, 0, 0]
+
+Test Case #5
+input:
+6
+7
+output:
+The result for threshold 6 is [294, 132, 55, 40, 29]
+The result for threshold 7 is [294, 132, 55, 40, 29]

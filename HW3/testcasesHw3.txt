@@ -1,0 +1,94 @@
+Test Case #1
+input:
+-5
+output:
+You entered an invalid input!!!
+
+Test Case #2
+input:
+81
+output:
+You entered an invalid input!!!
+
+Test Case #3
+input:
+80
+output:
+Results for Zonguldak as follows:
+Adalet ve Kalkınma Partisi: 2
+Cumhuriyet Halk Partisi: 2
+Doğru Yol Partisi: 1
+Milliyetçi Hareket Partisi: 0
+Genç Parti: 0
+
+Test Case #4:
+input:
+0
+output:
+Results for Adana as follows:
+Adalet ve Kalkınma Partisi: 5
+Cumhuriyet Halk Partisi: 4
+Doğru Yol Partisi: 2
+Milliyetçi Hareket Partisi: 2
+Genç Parti: 1
+
+Test Case #5:
+input:
+250
+output:
+You entered an invalid input!!!
+
+Test Case #6:
+input:
+20
+output:
+Results for Bursa as follows:
+Adalet ve Kalkınma Partisi: 9
+Cumhuriyet Halk Partisi: 3
+Doğru Yol Partisi: 2
+Milliyetçi Hareket Partisi: 1
+Genç Parti: 1
+
+Test Case #7:
+input:
+1
+output:
+Results for Adıyaman as follows:
+Adalet ve Kalkınma Partisi: 4
+Cumhuriyet Halk Partisi: 1
+Doğru Yol Partisi: 0
+Milliyetçi Hareket Partisi: 0
+Genç Parti: 0
+
+Test Case #8:
+input:
+37
+output:
+Results for Iğdır as follows:
+Adalet ve Kalkınma Partisi: 0
+Cumhuriyet Halk Partisi: 1
+Doğru Yol Partisi: 0
+Milliyetçi Hareket Partisi: 1
+Genç Parti: 0
+
+Test Case #9
+input:
+14
+output:
+Results for Bayburt as follows:
+Adalet ve Kalkınma Partisi: 1
+Cumhuriyet Halk Partisi: 0
+Doğru Yol Partisi: 1
+Milliyetçi Hareket Partisi: 0
+Genç Parti: 0
+
+Test Case #10:
+input:
+39
+output:
+Results for İstanbul as follows:
+Adalet ve Kalkınma Partisi: 34
+Cumhuriyet Halk Partisi: 22
+Doğru Yol Partisi: 3
+Milliyetçi Hareket Partisi: 4
+Genç Parti: 7
